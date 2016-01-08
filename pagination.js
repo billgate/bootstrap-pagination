@@ -57,6 +57,7 @@
 				
 				if ( minList > -(settings.view.max) )
 				{
+					var i = 0;
 					for(i=minList; i < settings.current; i++)
 					{
 						if (i > 0 )
